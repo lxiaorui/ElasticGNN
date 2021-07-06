@@ -3,7 +3,7 @@
 
 This repository includes the official implementation of ElasticGNN in the paper **"Elastic Graph Neural Networks"** [ICML 2021].
 
-[Xiaorui Liu](http://cse.msu.edu/~xiaorui/), [Wei Jin](http://cse.msu.edu/~jinwei2/), [Jiliang Tang](http://www.cse.msu.edu/~tangjili/) at el. [**Elastic Graph Neural Networks**](https:/).  
+[Xiaorui Liu](http://cse.msu.edu/~xiaorui/), [Wei Jin](http://cse.msu.edu/~jinwei2/), [Jiliang Tang](http://www.cse.msu.edu/~tangjili/) at el. [**Elastic Graph Neural Networks**](http://proceedings.mlr.press/v139/liu21k/liu21k.pdf).  
 
 ![](https://raw.githubusercontent.com/lxiaorui/ElasticGNN/master/EMP.png)
 
@@ -14,6 +14,7 @@ While many existing graph neural networks (GNNs) have been proven to perform L2-
 
 ## Reference
 Please cite our paper if you find the paper or code to be useful. Thank you!
+
 ```
 @InProceedings{liu2021elastic,
   title = 	 {Elastic Graph Neural Networks},
