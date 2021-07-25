@@ -44,5 +44,5 @@ $ python3 main.py --dataset Cora --random_splits 10 --runs 1 --lr 0.01 --dropout
 Robustness setting
 ```
 $ cd code
-$ python3 main.py --dataset Cora-adv --random_splits 10 --runs 1 --lr 0.01 --K 10 --lambda1 9 --lambda2 3 --weight_decay 0.0005 --hidden 16 --normalize_features False --ptb_rate 0.1
+$ python3 main.py --dataset Cora-adv --random_splits 1 --runs 10 --lr 0.01 --K 10 --lambda1 9 --lambda2 3 --weight_decay 0.0005 --hidden 16 --normalize_features False --ptb_rate 0.1
 ```
